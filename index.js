@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const memory = Array(100).fill(0);
 let memptr = 0;
 
