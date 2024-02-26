@@ -7,7 +7,10 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"bin": "index.js",
+	"bin": {
+		"m4b": "index.js",
+		"mini4bf": "index.js"
+	},
 	"keywords": [],
 	"author": "romw314",
 	"dependencies": {
